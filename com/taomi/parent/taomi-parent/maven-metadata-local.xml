@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.taomi.parent</groupId>
+  <artifactId>taomi-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160101150338</lastUpdated>
+  </versioning>
+</metadata>
